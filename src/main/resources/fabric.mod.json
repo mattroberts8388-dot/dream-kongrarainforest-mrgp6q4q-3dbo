@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "kongrarainforest",
+  "version": "${version}",
+  "name": "Kongra Rainforest Ecosystem",
+  "description": "Adds a deadly rainforest ecosystem where rain damages you, rainforest animals, the boss KONGRA, and protective camouflage KONGRA armor.",
+  "authors": ["Kongra Dev"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.kongrarainforest.KongraRainforestMod"],
+    "client": ["com.kongrarainforest.KongraRainforestModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*"
+  }
+}
