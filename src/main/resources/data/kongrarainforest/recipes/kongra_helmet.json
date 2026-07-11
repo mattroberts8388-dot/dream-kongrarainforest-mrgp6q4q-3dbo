@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SVS",
+    "   "
+  ],
+  "key": {
+    "S": { "item": "kongrarainforest:kongra_scale" },
+    "V": { "item": "kongrarainforest:venom_gland" }
+  },
+  "result": { "item": "kongrarainforest:kongra_helmet", "count": 1 }
+}
