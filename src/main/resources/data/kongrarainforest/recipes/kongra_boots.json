@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "S S",
+    "R R"
+  ],
+  "key": {
+    "S": { "item": "kongrarainforest:kongra_scale" },
+    "R": { "item": "kongrarainforest:rainforest_resin" }
+  },
+  "result": { "item": "kongrarainforest:kongra_boots", "count": 1 }
+}
